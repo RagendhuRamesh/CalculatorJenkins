@@ -12,3 +12,4 @@ C:\Users\Ragendhu\source\repos\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\r
 C:\Users\Ragendhu\source\repos\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 C:\Users\Ragendhu\source\repos\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 C:\Users\Ragendhu\source\repos\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+C:\Users\Ragendhu\source\repos\Phase4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
